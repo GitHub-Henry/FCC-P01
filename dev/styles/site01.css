@@ -5,6 +5,8 @@
 body {
   margin-top: 35px;
   min-width: 750px;
+  max-width: 1160px;
+  margin: auto;
 }
 
 h1 {
