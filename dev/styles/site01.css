@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+
+body {
+  margin-top: 35px;
+  min-width: 750px;
+}
+
+h1 {
+  font-family: "Tangerine","Raleway","Helvetica Neue", Helvetica, sans-serif;
+  font-size: 28px;
+  letter-spacing: 3px;
+  line-height: 27px;
+}
+
+h2 {
+  font-family: "Raleway","Quicksand";
+  font-weight: normal;
+  line-height: 25px;
+  font-size: 22px;
+}
+
+li{
+  font-size: 16px;
+}
+
+.thumbnail {
+  width: 600px;
+  margin: auto;
+}
+
+#content {
+  margin-top: 5px;
+  padding-left: 20px;
+  border-radius: 10px;
+}
+
+img, .thumbnail {
+  border-radius: 10px;
+}
+
+blockquote {
+  font-size: 15px;
+}
+
+#quote {
+  font-size: 18px;
+}
