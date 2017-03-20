@@ -9,9 +9,9 @@ body {
   margin: auto;
 }
 
-h1 {
+#name {
   font-family: "Tangerine","Raleway","Helvetica Neue", Helvetica, sans-serif;
-  font-size: 28px;
+  font-size: 60px;
   letter-spacing: 3px;
   line-height: 27px;
 }
